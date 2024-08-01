@@ -1,0 +1,17 @@
+.bb {
+    background-image: url("images\ \(19\).jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(255, 140, 211);
+    background-color: aliceblue;
+    font-family: "Poetsen One", sans-serif;
+}
+
+#mc {
+    border-width: 10px;
+    background-color: aliceblue;
+    border-style: ridge;
+}
